@@ -1,0 +1,484 @@
+1
+00:00:00,000 --> 00:00:06,660
+more energy will fall on the world's deserts in 6 h than the entire world will consume over the next year
+
+2
+00:00:06,839 --> 00:00:10,220
+the sahara desert is well known for being the world's largest hot desert
+
+3
+00:00:10,618 --> 00:00:13,660
+but it's probably a lot bigger than you even realize
+
+4
+00:00:14,599 --> 00:00:16,440
+it's nearly the same size as china
+
+5
+00:00:16,600 --> 00:00:20,410
+it spans across ten different countries in three different time zones
+
+6
+00:00:20,928 --> 00:00:23,768
+and it gets absolutely massacred by sunlight
+
+7
+00:00:24,329 --> 00:00:27,289
+this is a map that shows annual sunshine hours across the world
+
+8
+00:00:27,829 --> 00:00:31,088
+there are some notable hot spots in north america, south america and southern africa
+
+9
+00:00:31,510 --> 00:00:34,670
+but nowhere gets as much as the sahara desert
+
+10
+00:00:34,829 --> 00:00:39,850
+most of this china size chunk of land gets more than 3600 h of sunlight a year
+
+11
+00:00:40,070 --> 00:00:44,649
+within that big chunk is this other chunk that gets more than 4000 h a year
+
+12
+00:00:45,228 --> 00:00:49,929
+for reference, that's nearly four times the amount of annual sunlight the germany gets
+
+13
+00:00:50,100 --> 00:00:54,880
+most of this is because the sahara desert is a pretty much directly along the tropic of cancer
+
+14
+00:00:55,079 --> 00:00:57,798
+which means the sun, for a lot of the year, is pretty much directly over it
+
+15
+00:00:58,079 --> 00:01:02,840
+and b clouds pretty much never form or even exist over the entire desert
+
+16
+00:01:03,399 --> 00:01:05,400
+which means all that sunlight is never interrupted
+
+17
+00:01:06,319 --> 00:01:07,140
+the sahara, consequently
+
+18
+00:01:07,540 --> 00:01:12,459
+is the best location anywhere on earth to play solar panels and develop solar farms
+
+19
+00:01:13,209 --> 00:01:17,790
+so it then begs the question, what if we covered the entire desert with solar panels
+
+20
+00:01:18,129 --> 00:01:19,709
+how much energy would we actually be able to produce
+
+21
+00:01:19,989 --> 00:01:21,590
+and how would this change our planet
+
+22
+00:01:22,390 --> 00:01:23,757
+let's take a deep dive
+
+23
+00:01:23,757 --> 00:01:24,968
+for starters, let's begin here
+
+24
+00:01:25,730 --> 00:01:28,409
+this is the quarzazate solar power station in morocco
+
+25
+00:01:29,010 --> 00:01:34,530
+the world's largest concentrated solar power plant currently in existence in a marvel of modern engineering
+
+26
+00:01:35,108 --> 00:01:43,608
+once fully completed and operational, the plant will take up an area of 25 km² and be capable of producing 582 megawatts of electricity
+
+27
+00:01:44,150 --> 00:01:48,370
+it will even be capable of storing solar energy in the form of superheated molten salt
+
+28
+00:01:49,209 --> 00:01:52,090
+which allows for further production of electricity even into the night
+
+29
+00:01:52,989 --> 00:01:56,569
+after investing more than $9 billion into their solar energy objective
+
+30
+00:01:57,290 --> 00:02:01,209
+morocco aims to create four additional plants similar to this one in the sahara
+
+31
+00:02:01,730 --> 00:02:06,129
+that will collectively create more than 2000 megawatts of electricity production
+
+32
+00:02:06,569 --> 00:02:12,090
+which will be enough to provide for roughly 38% of all of morocco's annual electricity needs
+
+33
+00:02:13,030 --> 00:02:17,530
+this project will transform morocco into the world's leading solar energy state
+
+34
+00:02:18,090 --> 00:02:21,810
+and as the only african country that currently has a power cable link to europe
+
+35
+00:02:22,288 --> 00:02:26,650
+much of this energy will be exported for profit to the countries of the european union
+
+36
+00:02:27,580 --> 00:02:32,157
+but all of this energy is created from just five relatively small plants
+
+37
+00:02:32,199 --> 00:02:35,717
+what happens when we scale things up a bit and think bigger
+
+38
+00:02:36,389 --> 00:02:42,650
+one of the few organizations thinking about sahara solar energy production in the future is the german energy company deserttec
+
+39
+00:02:43,300 --> 00:02:46,098
+which happens to be an investor of the moroccan solar energy project
+
+40
+00:02:46,937 --> 00:02:50,217
+according to their research and data taken from the german aerospace center
+
+41
+00:02:50,657 --> 00:02:59,068
+a solar panel array of just this small size in the sahara could power 100 % of germany's entire electricity needs
+
+42
+00:02:59,770 --> 00:03:02,750
+an array of this size could power the entire european union
+
+43
+00:03:03,187 --> 00:03:07,907
+while an array of just this size could power the entire world's modern electricity needs
+
+44
+00:03:08,467 --> 00:03:11,830
+at approximately 18 trillion watts, give or take a bit
+
+45
+00:03:12,710 --> 00:03:16,870
+considering that a typical solar panel generates roughly 350 watts of power
+
+46
+00:03:17,229 --> 00:03:22,710
+this earth powering array would encompass around 51.4 billion solar panels
+
+47
+00:03:23,270 --> 00:03:28,348
+and it would be roughly the same size as the us state of new mexico, quite a large amount of land
+
+48
+00:03:28,830 --> 00:03:36,110
+but it's nothing when compared with the vastness of the sahara that also happens to be incredibly sparsely populated
+
+49
+00:03:36,770 --> 00:03:39,788
+only about two and a half million people live across the sahara
+
+50
+00:03:40,400 --> 00:03:43,318
+which means that its population density is on a par with siberia
+
+51
+00:03:44,080 --> 00:03:51,437
+which further means that it's possible to set up huge solar farms like this without too much of a negative impact on the local inhabitants
+
+52
+00:03:52,258 --> 00:03:56,919
+the desert tech project doesn't quite intend on transforming the entire saharan into a solar farm
+
+53
+00:03:57,437 --> 00:03:58,598
+but it's still quite ambitious
+
+54
+00:03:59,460 --> 00:04:05,960
+the general idea to set up a series of massive solar farms across the sahara's perimeter and deeper into the middle east
+
+55
+00:04:06,699 --> 00:04:07,199
+once constructed
+
+56
+00:04:07,639 --> 00:04:12,560
+this collection of solar farms will provide for the majority of africas and the middle east electricity needs
+
+57
+00:04:13,120 --> 00:04:15,960
+while shipping any excess power across cables to europe
+
+58
+00:04:16,399 --> 00:04:21,439
+that could supply as much as 15 % of the continents in higher electricity needs
+
+59
+00:04:22,100 --> 00:04:26,600
+this is a real life plan that's undergone significant amounts of research and investment
+
+60
+00:04:27,500 --> 00:04:31,600
+but why are they only planning on building solar farms around the sahara's perimeter
+
+61
+00:04:31,838 --> 00:04:31,838
+well
+
+62
+00:04:32,300 --> 00:04:35,899
+while there's lots of obvious benefits to constructing solar farms in the empty sahara
+
+63
+00:04:36,620 --> 00:04:37,939
+there's also lots of problems
+
+64
+00:04:38,519 --> 00:04:41,980
+1st of all, the sahara's emptiness itself is both a blessing and a curse
+
+65
+00:04:42,838 --> 00:04:47,139
+on the one hand, it means that almost nobody will have to be relocated or moved off of their land
+
+66
+00:04:47,860 --> 00:04:48,338
+but on the other hand
+
+67
+00:04:48,699 --> 00:04:55,060
+there isn't any infrastructure to actually get the map massive amounts of supplies into place in any kind of cost effective manner
+
+68
+00:04:55,600 --> 00:04:56,920
+i mean, look at this map
+
+69
+00:04:57,079 --> 00:05:00,620
+there's only like four roads that even stretch across the sahara from the north to the south
+
+70
+00:05:01,399 --> 00:05:05,540
+there are huge empty pockets of land across the desert without a single road at all
+
+71
+00:05:06,019 --> 00:05:08,899
+and some of these areas, like this northwestern pocket of chad
+
+72
+00:05:09,420 --> 00:05:12,860
+are more than 600 km kilometers away from the nearest road
+
+73
+00:05:13,459 --> 00:05:21,819
+transporting billions of solar panels to a remote area like this will necessitate building countless new expensive highways or railroads to get them there
+
+74
+00:05:22,319 --> 00:05:26,278
+and that's why desert tech is only planning on constructing plants around the sahara
+
+75
+00:05:26,439 --> 00:05:27,620
+but let's forget all of that for a moment
+
+76
+00:05:27,819 --> 00:05:32,540
+and just think about the cost of the solar panels themselves in a sahara sized array
+
+77
+00:05:33,319 --> 00:05:41,399
+a pretty average 350 watt solar panel typically cost anywhere between $250 and $450 once fully installed on a residential roof
+
+78
+00:05:41,560 --> 00:05:41,560
+today
+
+79
+00:05:41,980 --> 00:05:47,740
+since we know that it's going to be expensive transporting and installing all of them in the middle of one of the world's most remote locations
+
+80
+00:05:48,220 --> 00:05:56,300
+we're going to stick with the high cost estimate here and tack on an additional $300 for delivery and infrastructure fees and 250 more dollars for installation fees
+
+81
+00:05:57,120 --> 00:06:02,139
+conveniently, this math makes the total cost for each 350 watt panel exactly $1000
+
+82
+00:06:02,420 --> 00:06:03,139
+so from there
+
+83
+00:06:03,540 --> 00:06:12,338
+you can figure out pretty quickly that the 51.4 billion solar panels needed to fit inside of our new mexico sized array that will power the entire planet cost a cool $51.4 trillion
+
+84
+00:06:15,620 --> 00:06:20,420
+for reference, that's approximately 60 % of the entire world's gdp
+
+85
+00:06:20,639 --> 00:06:25,720
+but it would enable us to immediately switch all of our electricity over to renewable solar
+
+86
+00:06:25,879 --> 00:06:26,819
+so that's pretty cool
+
+87
+00:06:27,470 --> 00:06:30,509
+all right, then now let's just assume that we've turned on infinite money
+
+88
+00:06:30,829 --> 00:06:35,069
+and we expanded upon this by filling up the entire sahara desert with solar panels
+
+89
+00:06:35,759 --> 00:06:37,420
+what is going to happen now
+
+90
+00:06:37,720 --> 00:06:41,420
+well, for starters, if we assume that the solar panels are 100 % efficient
+
+91
+00:06:41,939 --> 00:06:50,620
+the entire sahara desert will probably now be producing somewhere around the neighborhood of 1.3 million terawatt hours of electricity per year
+
+92
+00:06:51,439 --> 00:06:53,420
+so to put that number in a perspective
+
+93
+00:06:53,939 --> 00:07:01,459
+the entire contemporary human species consumed about 173000 terawatt hours of energy in 2019
+
+94
+00:07:02,220 --> 00:07:04,259
+and that's not just electricity
+
+95
+00:07:04,500 --> 00:07:07,540
+that's all energy consumed for everything we did that year
+
+96
+00:07:08,209 --> 00:07:19,069
+a sahara desert covered in solar panels will generate more than seven times the amount of energy that all of the nearly 8 billion humans of the world collectively consume right now
+
+97
+00:07:19,778 --> 00:07:24,519
+obviously, this would present revolutionary changes to what mankind could be capable of
+
+98
+00:07:24,680 --> 00:07:29,278
+and not just even closer to a type one cardishev style civilization
+
+99
+00:07:29,439 --> 00:07:37,500
+but this overwhelming power given to humanity by harnessing the entire sahara would also come with some significant costs
+
+100
+00:07:37,620 --> 00:07:44,240
+the black surfaces of the solar panels dotting the sahara will of course absorb most of the sunlight hitting the sahara
+
+101
+00:07:44,399 --> 00:07:48,980
+only a tiny fraction of that incoming energy will actually be converted into electricity
+
+102
+00:07:49,500 --> 00:07:52,860
+while the overwhelming majority will be returned back to the environment as heat
+
+103
+00:07:53,639 --> 00:07:53,778
+in turn
+
+104
+00:07:54,220 --> 00:08:03,500
+this heat will trigger a sort of feedback loop in which the heat amid by the solar panels would create a steep temperature differential between the land and the surrounding oceans
+
+105
+00:08:04,199 --> 00:08:11,620
+this will ultimately lower the surface air pressure and cause moist air to rise and condens into clouds and rain across the desert
+
+106
+00:08:12,230 --> 00:08:15,709
+so by covering the entire sahara with solar panels
+
+107
+00:08:16,189 --> 00:08:21,990
+will also unwittingly be terraforming the desert sahara into a green sahara at the same time
+
+108
+00:08:22,800 --> 00:08:24,338
+in some ways, this will be good
+
+109
+00:08:24,939 --> 00:08:28,220
+because it will open up a massive amount of land the size of china to colonization
+
+110
+00:08:28,980 --> 00:08:32,298
+human settlement, and, critically, for the emerging economies of north africa
+
+111
+00:08:33,418 --> 00:08:35,580
+extensive economic development for their countries and their people
+
+112
+00:08:36,450 --> 00:08:38,668
+but in other ways, this will be really bad
+
+113
+00:08:38,927 --> 00:08:39,389
+the amazon rainforest
+
+114
+00:08:39,750 --> 00:08:46,269
+over in south america is extensively fed and fertilized by dust coming over from the sahara that gets blown across the atlantic
+
+115
+00:08:47,028 --> 00:08:50,870
+while the atlantic ecosystems themselves also benefit from this fertile dust as well
+
+116
+00:08:51,750 --> 00:08:56,639
+removing all of the sands of the sahara desert could create a cascade of unforeseen events
+
+117
+00:08:56,639 --> 00:09:01,210
+that could wipe out entire ecosystems in the atlantic, the amazon and probably beyond
+
+118
+00:09:01,769 --> 00:09:05,850
+and create an epic climate catastrophe, the likes we have never seen before
+
+119
+00:09:06,677 --> 00:09:09,820
+in summary, covering the entire sahara with solar panels would be epic
+
+120
+00:09:10,460 --> 00:09:11,220
+but it's also not feasible
+
+121
+00:09:11,798 --> 00:09:12,860
+it's probably pretty dangerous
+
